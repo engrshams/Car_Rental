@@ -35,7 +35,7 @@ A modern Car Rental Management System built with **Laravel 12**, **Vue 3**, **In
 
 | Home (Customer) | Admin Panel |
 |-----------------|-------------|
-| ![Home Screenshot](screenshots/home.png) | ![Admin Screenshot](screenshots/admin.png) |
+| ![Home Screenshot](screenshots/Home.png) | ![Admin Screenshot](screenshots/admin.png) |
 
 ---
 
